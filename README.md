@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tatenda555
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Fundamentals 
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking to collaborate in Data Analysis
 - 📫 
 
 <!---
